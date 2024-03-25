@@ -1,0 +1,11 @@
+.main-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+.main-article{
+    flex: 0 0 33%;
+    /* display: inline-block; */
+    /* width: 32%; */
+    margin: 5px;
+    background-color: #f8eded;
+}
